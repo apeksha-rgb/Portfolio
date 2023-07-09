@@ -1,0 +1,204 @@
+
+body{
+    font-family:sans-serif;
+}
+#container{
+    /*border: 1px;
+    border-style: solid;*/
+    float: right;
+    margin-top: 620px;
+    height:200px;
+    width:650px;
+    margin-right: 105px;
+    
+    
+
+}
+
+#html{
+    width: 489px;
+}
+#Javascript{
+    width: 350px;
+}
+#python{
+    width:450px;
+
+}
+.blue{
+    background-color:rgba(30, 207, 218, 1);
+    height: 10px;
+    border-radius:25px ;
+    
+}
+
+.progress_head{
+    font-size: small;
+    margin-left: 50px;
+}
+.grey{
+    margin-left: 50px;
+    /*border:1px; 
+    border-style:solid;*/ 
+    height: 10px; 
+    width: 620px;
+    border-radius: 25px;
+    background-color:rgba(26, 51, 49, 1) ;
+    
+    
+}
+#about_me{
+    text-align: center;
+    margin-left: 50px;
+    font-size: small;
+}
+#resume_but:hover{
+    color:rgba(30, 207, 218, 1);
+    background-color:rgba(26, 51, 49, 1) ;
+    cursor:pointer;
+}
+
+#resume_but{
+    color: white;
+    background-color: black;
+    height: 40px;
+    width:100px;
+    margin-left: 280px;
+}
+#heading2{
+    text-align: center;
+    margin-top: 6px;
+}
+
+.social_elem{
+    margin-left: 6px;
+    
+}
+.social_icon{
+    /*border: 1px;
+    border-style: solid;*/
+    height: 250px;
+    width: 50px;
+    background-color:rgba(26, 51, 49, 1) ;
+    margin-left: 532px;
+    margin-top: 178px;
+}
+.containersocial
+{
+    position:absolute;
+    /*border: 1px;
+    border-style: solid;*/
+    height:540px;
+    width: 600px;
+    /*left: 400px;*/
+    margin-top: 520px;
+}
+#image{
+    position:absolute;
+    
+    margin-top: 112px;
+    left: 250px;
+    
+    
+}
+.navbar{
+   list-style-type: none; 
+   margin-left:250px;
+   margin-right: 650px;
+   
+   
+   /*padding: 5px;*/
+   overflow: hidden;
+   background-color:#ECC844;
+   
+}
+.nav_el{
+    float: left;
+    color: #ECC844;
+    background-color: rgba(26, 51, 49, 1);
+    margin-left: 2px;
+    margin-right: 2px;
+    
+   border-style: solid ;
+   
+}
+.nav_el a{
+    display:block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+    
+    
+}
+.nav_el a:hover{
+    background-color:rgba(26, 51, 49, 1) ;
+    /*border: 1px;
+    border-style: solid;*/
+    color:rgba(30, 207, 218, 1) ;
+}
+#hire_me:hover{
+    cursor:pointer;
+    color:rgba(30, 207, 218, 1);
+    background-color:rgba(26, 51, 49, 1) ;
+    outline: #ECC844;
+
+}
+#hire_me{
+/* Hire me button */
+
+position: absolute;
+height: 40px;
+width:100px;
+background: #ECC844;
+color: #000000;
+
+}
+#heading{
+    color: rgba(30, 207, 218, 1);
+    
+}
+h5{
+    color: white;
+}
+#content{
+    
+    color: white;
+   
+    font-size: large;
+}
+#introduction{
+    position: absolute;
+    width:350px;
+    height: 250px;
+    left: 250px;
+    top: 140px;
+    
+
+}
+
+
+#cover{
+    background-color: rgba(26, 51, 49, 1);
+    /* Rectangle 1 */
+
+    position: absolute;
+    width: 1364px;
+    height: 489px;
+    left: 0px;
+    /*top: 71px;*/
+
+
+
+}
+#main_image{
+ /* main image */
+
+    position: absolute;
+    width: 520px;
+    height: 489px;
+    left: 700px;
+    top: 25px;
+
+}
